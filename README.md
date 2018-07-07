@@ -1,6 +1,6 @@
-# Counting Vehicles
+# Currently supports ground truthing for Vehicle Count
 
-## Project Title
+## GT-Buddy
 
 This project aimed to provide a simple UI for making the process of ground truthing fast and efficient.
 
