@@ -18,7 +18,7 @@ For detailed installation please refer [PyQt5 Website](http://pyqt.sourceforge.n
 
 ### Installation
 
-You have to run application1.py
+You have to run application1.py (Use Python3.6 or greater)
 ```
 python3 application1.py
 ```
@@ -36,3 +36,7 @@ The shortcuts can be accessed through help->Shortcuts or Ctrl+K
 ### Authors
 
 * Prajwal Rao - [prajwaljpj@gmail.com](mailto:prajwaljpj@gmail.com), [prajwalrao@iisc.ac.in](mailto:prajwalrao@iisc.ac.in)
+
+### Contributors
+
+* Jishnu P - [jishnuj@iisc.ac.in](mailto:jishnuj@iisc.ac.in)
