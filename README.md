@@ -37,6 +37,3 @@ The shortcuts can be accessed through help->Shortcuts or Ctrl+K
 
 * Prajwal Rao - [prajwaljpj@gmail.com](mailto:prajwaljpj@gmail.com), [prajwalrao@iisc.ac.in](mailto:prajwalrao@iisc.ac.in)
 
-### Contributors
-
-* Jishnu P - [jishnuj@iisc.ac.in](mailto:jishnuj@iisc.ac.in)
